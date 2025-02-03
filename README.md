@@ -1,6 +1,6 @@
-
-    <title>tic-tac-toe game</title>
+This is a game develop my me were two user can play a tic tak game  
+it envolve HTML,CSS,and Javascript
     
-    <h1>Tic Tac Toe</h1>
+    
    
         
